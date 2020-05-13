@@ -1,0 +1,10 @@
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\bin\Debug\RSA crypto Mih.exe.config
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\bin\Debug\RSA crypto Mih.exe
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\bin\Debug\RSA crypto Mih.pdb
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\obj\Debug\RSA crypto Mih.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\obj\Debug\RSA_crypto_Mih.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\obj\Debug\RSA crypto Mih.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\obj\Debug\RSA crypto Mih.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\obj\Debug\RSA crypto Mih.exe
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\obj\Debug\RSA crypto Mih.pdb
+F:\Users\MrTokin\source\repos\RSA crypto Mih\RSA crypto Mih\obj\Debug\RSA_crypto_Mih.Form1.resources
